@@ -1,0 +1,11 @@
+*.class
+.classpath
+.idea/
+.project
+.settings/
+target/
+*.iml
+bin/
+*.bak
+Thumbs.db
+/target
